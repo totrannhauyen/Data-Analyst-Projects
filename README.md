@@ -91,7 +91,7 @@ The project includes:
 
 ---
 
-## Tableau Dashboard Features
+## Tableau Dashboard Features [Global Covid-19]([https://ourworldindata.org/covid-deaths](https://public.tableau.com/app/profile/tr.n.nh.uy.n.t./viz/GlobalCovid-19_17781804232530/Dashboard1?publish=yes))
 
 ### KPI Cards
 Summary metrics displayed at the top-left of the dashboard:
