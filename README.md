@@ -96,8 +96,9 @@ The project includes:
 
 ---
 
-## Tableau Dashboard Features 
-🔗 [Global Covid-19](https://public.tableau.com/app/profile/tr.n.nh.uy.n.t./viz/GlobalCovid-19_17781804232530/Dashboard1?publish=yes)
+## [🔗 Global Covid-19](https://public.tableau.com/app/profile/tr.n.nh.uy.n.t./viz/GlobalCovid-19_17781804232530/Dashboard1?publish=yes)
+
+[![Global Covid-19](Global%20Covid-19/tableau/tableau-report/Global%20Covid-19.png)](https://public.tableau.com/app/profile/tr.n.nh.uy.n.t./viz/GlobalCovid-19_17781804232530/Dashboard1?publish=yes)
 
 ### KPI Cards
 Summary metrics displayed at the top-left of the dashboard:
@@ -264,11 +265,6 @@ The SQL scripts are used to generate statistical results and metrics displayed i
 
 ---
 
-## Tableau Dashboard Features 
-🔗 [Road Accident Analysis](https://public.tableau.com/app/profile/tr.n.nh.uy.n.t./viz/ROADACCIDENTANALYSIS_17786979226730/Dashboard1?publish=yes)
-
----
-
 ## Tools Used
 
 - SQL Server.
@@ -278,81 +274,60 @@ The SQL scripts are used to generate statistical results and metrics displayed i
 
 ---
 
-## Dashboard Features
+# Tableau Dashboard
 
-### KPI Cards
+## [🔗 Road Accident Analysis - Tableau](https://public.tableau.com/app/profile/tr.n.nh.uy.n.t./viz/ROADACCIDENTANALYSIS_17786979226730/Dashboard1?publish=yes)
 
-Key accident statistics displayed in dashboard summary cards:
+[![Road Accident Analysis Tableau](Road%20Accident/tableau/road-accident-analysis-tableau.png)](https://public.tableau.com/app/profile/tr.n.nh.uy.n.t./viz/ROADACCIDENTANALYSIS_17786979226730/Dashboard1?publish=yes)
 
-- Total Casualties.
-- Total Accidents.
-- Fatal Casualties.
-- Serious Casualties.
-- Slight Casualties.
+### Tableau Features
 
----
-
-### Vehicle Type Analysis
-
-Analyzes casualties by vehicle categories:
-
-- Cars.
-- Bikes.
-- Buses.
-- Vans.
-- Agricultural Vehicles.
-- Other Vehicles.
+- KPI summary cards.
+- Vehicle type analysis.
+- Road type analysis.
+- Weather & road condition analysis.
+- Interactive accident maps.
+- Urban vs Rural comparison.
 
 ---
 
-### Road Type Analysis
+# Power BI Dashboard
 
-Breakdown of casualties across different road types:
+## [🔗 Road Accident Analysis - Power BI](Road%20Accident/power-bi/road-accident-analysis-power-bi.pdf)
 
-- Single carriageway.
-- Dual carriageway.
-- Roundabout.
-- One-way street.
-- Slip road.
+[![Road Accident Analysis Power BI](Road%20Accident/power-bi/road-accident-analysis-power-bi.png)](Road%20Accident/power-bi/road-accident-analysis-power-bi.pdf)
 
----
+### Power BI Features
 
-### Weather & Road Surface Analysis
-
-Visualizes accident severity and casualty distribution based on:
-
-- Weather conditions.
-- Road surface conditions.
-- Wet vs Dry roads.
-- Snow / Ice conditions.
+- Interactive drill-down filtering.
+- Dynamic KPI visualization.
+- Time-series accident analysis.
+- Severity trend monitoring.
+- Vehicle category comparison.
+- Responsive dashboard navigation.
 
 ---
 
-### Urban vs Rural Analysis
+# Excel Dashboard
 
-Compares accident casualties between:
+## [🔗 Road Accident Analysis - Excel Dashboard](Road%20Accident/excel/road-accident-analysis-excel.png)
 
-- Urban Areas.
-- Rural Areas.
+[![Road Accident Analysis Excel](Road%20Accident/excel/road-accident-analysis-excel.png)](Road%20Accident/excel/road-accident-analysis-excel.png)
 
----
+### Excel Dashboard Features
 
-### Day vs Night Analysis
-
-Evaluates accident distribution under:
-
-- Daylight conditions.
-- Dark / Night conditions.
-
----
-
-### Location-Based Accident Mapping
-
-Interactive maps showing accident hotspots and casualty distributions across the United Kingdom.
+- Pivot table reporting.
+- KPI summary metrics.
+- Conditional formatting analysis.
+- Accident trend charts.
+- Dynamic slicers & filters.
+- Data cleaning and preprocessing.
 
 ---
 
-## Dashboard Insights
+---
+
+# Dashboard Insights
 
 Some important insights discovered from the analysis:
 
